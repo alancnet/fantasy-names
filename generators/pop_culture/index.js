@@ -1,0 +1,28 @@
+
+module.exports = {
+  arthurians: require('./arthurians'),
+  avatarLastAirbenders: require('./avatar_last_airbenders'),
+  digimons: require('./digimons'),
+  dragonridersOfPerns: require('./dragonriders_of_perns'),
+  homestucks: require('./homestucks'),
+  howToTrainYourDragons: require('./how_to_train_your_dragons'),
+  hungerGames: require('./hunger_games'),
+  hyborians: require('./hyborians'),
+  lovecraftians: require('./lovecraftians'),
+  mazeRunners: require('./maze_runners'),
+  mortalKombats: require('./mortal_kombats'),
+  myLittlePonys: require('./my_little_ponys'),
+  onePieceDevilFruits: require('./one_piece_devil_fruits'),
+  pacificRims: require('./pacific_rims'),
+  pokemons: require('./pokemons'),
+  rwbys: require('./rwbys'),
+  shadowhunterChronicles: require('./shadowhunter_chronicles'),
+  skulduggeryPleasants: require('./skulduggery_pleasants'),
+  starcrafts: require('./starcrafts'),
+  stormlightArchives: require('./stormlight_archives'),
+  transformers: require('./transformers'),
+  warriorCats: require('./warrior_cats'),
+  wheelOfTimes: require('./wheel_of_times'),
+  wingsOfFires: require('./wings_of_fires'),
+  xMens: require('./x_mens')
+}

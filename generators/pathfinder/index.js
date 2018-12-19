@@ -1,0 +1,26 @@
+
+module.exports = {
+  aasimars: require('./aasimars'),
+  catfolks: require('./catfolks'),
+  drows: require('./drows'),
+  dwarfs: require('./dwarfs'),
+  elfs: require('./elfs'),
+  fetchlings: require('./fetchlings'),
+  gnomes: require('./gnomes'),
+  goblins: require('./goblins'),
+  halflings: require('./halflings'),
+  halfElfs: require('./half_elfs'),
+  halfOrcs: require('./half_orcs'),
+  hobgoblins: require('./hobgoblins'),
+  humans: require('./humans'),
+  ifrits: require('./ifrits'),
+  kobolds: require('./kobolds'),
+  orcs: require('./orcs'),
+  oreads: require('./oreads'),
+  ratfolks: require('./ratfolks'),
+  sylphs: require('./sylphs'),
+  tengus: require('./tengus'),
+  tians: require('./tians'),
+  tieflings: require('./tieflings'),
+  undines: require('./undines')
+}

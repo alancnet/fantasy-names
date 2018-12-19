@@ -1,0 +1,101 @@
+{
+  "author": {
+    "name": "Matt Consto and FantasyNameGenerators"
+  },
+  "bin": {
+    "fantasy-names": "command.js"
+  },
+  "bugs": {
+    "url": "https://github.com/mattconsto/fantasy-names/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": "Deprecated",
+  "description": "A fantasy name generator",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  },
+  "homepage": "https://github.com/mattconsto/fantasy-names#readme",
+  "keywords": [
+    "fantasy",
+    "names",
+    "generator",
+    "armour",
+    "description",
+    "destiny",
+    "diablo",
+    "doctor",
+    "who",
+    "dragon",
+    "age",
+    "dragon",
+    "ball",
+    "dungeons",
+    "and",
+    "dragons",
+    "elder",
+    "scrolls",
+    "eve",
+    "online",
+    "final",
+    "fantasy",
+    "game",
+    "of",
+    "thrones",
+    "guild",
+    "wars",
+    "halo",
+    "harry",
+    "potter",
+    "inheritance",
+    "cycle",
+    "legend",
+    "of",
+    "zelda",
+    "lord",
+    "of",
+    "the",
+    "rings",
+    "mass",
+    "effect",
+    "military",
+    "pathfinder",
+    "pets",
+    "places",
+    "pop",
+    "culture",
+    "real",
+    "rift",
+    "star",
+    "trek",
+    "star",
+    "wars",
+    "the",
+    "witcher",
+    "towns",
+    "and",
+    "cities",
+    "warhammer",
+    "weapons",
+    "wildstar",
+    "world",
+    "of",
+    "warcraft",
+    "wow"
+  ],
+  "license": "MIT",
+  "main": "generator.js",
+  "name": "@alancnet/fantasy-names",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattconsto/fantasy-names.git"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec --timeout 60000"
+  },
+  "version": "2.0.1",
+  "dependencies": {
+    "case": "^1.6.0",
+    "pluralize": "^7.0.0"
+  }
+}
